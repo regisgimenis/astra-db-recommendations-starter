@@ -1,0 +1,5 @@
+astrapy==0.7.3
+fastapi==0.109.2
+uvicorn[standard]
+tiktoken==0.5.2
+ragstack-ai
